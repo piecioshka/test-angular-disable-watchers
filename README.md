@@ -1,4 +1,4 @@
-# test-angular-disable-watchers
+# test-angularjs-disable-watchers
 
 ## Setup
 
